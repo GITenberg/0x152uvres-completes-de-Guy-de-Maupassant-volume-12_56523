@@ -1,5 +1,8 @@
 _repo: 0x152uvres-completes-de-Guy-de-Maupassant-volume-12_56523
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56523-h/images/cover.jpg
 creator:
   author:
     agent_name: Maupassant, Guy de
@@ -12,6 +15,8 @@ creator:
     - http://en.wikipedia.org/wiki/Guy_de_Maupassant
     - http://fr.wikipedia.org/wiki/Guy_de_Maupassant
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56523#0x152uvres-completes-de-Guy-de-Maupassant-volume-12
 gutenberg_bookshelf:
 - FR Nouvelles
 - FR Littérature
